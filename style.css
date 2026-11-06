@@ -13,7 +13,7 @@ body {
 .opening-section {
     min-height: 100vh;
     width: 100%;
-    background-image: url("asset/floral_bg.jpeg");
+    background-image: url("floral_bg.jpeg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -763,7 +763,7 @@ button:hover {
     padding: 60px 20px;
     justify-content: center;
     align-items: center;
-    background-image: url("asset/final-love-pc.png");
+    background-image: url("final-love-pc.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -935,7 +935,7 @@ button:hover {
         min-height: 100svh;
         padding: 45px 18px;
 
-        background-image: url("asset/final-love-mobile.jpg");
+        background-image: url("final-love-mobile.jpg");
         background-position: center center;
         background-size: cover;
     }
